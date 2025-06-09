@@ -1,0 +1,16 @@
+{
+    "sessions": [
+        {
+            "name": "account1",
+            "api_id": 123456,
+            "api_hash": "abcdef123456",
+            "session_string": "1a2b3c...string_session_here..."
+        },
+        {
+            "name": "account2",
+            "api_id": 654321,
+            "api_hash": "654321fedcba",
+            "session_string": "9z8y7x...another_session..."
+        }
+    ]
+}
